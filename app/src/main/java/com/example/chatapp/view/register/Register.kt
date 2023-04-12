@@ -27,9 +27,7 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.chatapp.view.Appbar
-import com.example.chatapp.view.Buttons
-import com.example.chatapp.view.TextFormField
+
 
 import com.example.chatapp.view.register.ui.theme.ChatAppTheme
 

@@ -91,7 +91,7 @@ fun HomeView(
             },
             maxLines = 1,
             modifier = Modifier
-                .padding(horizontal = 15.dp, vertical = 10.dp)
+                .padding(horizontal = 15.dp, vertical = 2.dp)
                 .fillMaxWidth()
                 .weight(weight = 0.09f, fill = true),
             keyboardOptions = KeyboardOptions(
