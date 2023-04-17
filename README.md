@@ -5,7 +5,7 @@ I.Mohamned Thasthakir (Team Lead) - https://g.dev/Mdthasthakir
 
 S.Surya - https://g.dev/Suryaselvaraj
 
-V.Chandru - 
+V.Chandru - https://g.dev/ChandruV
 
 G.Karthick - https://g.dev/Karthick5
 
