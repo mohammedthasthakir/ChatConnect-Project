@@ -9,6 +9,6 @@ V.Chandru - https://g.dev/ChandruV
 
 G.Karthick - https://g.dev/Karthick5
 
-Nishanth - 
+Nishanth - https://g.dev/NISHANTH18
 
 Video Demonstration Link - https://youtu.be/2Gi2q1G7ZAw
